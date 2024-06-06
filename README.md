@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://github.com/lumakk/lumakk/assets/170836218/b94c2655-a0af-46d9-884a-c8fb21f4d2d8" alt="lumakk">
+<img src="vtuber optim-1](https://github.com/lumakk/lumakk/assets/170836218/dc8bec5e-6512-4730-a4a8-3dca20594170" alt="lumakk">
 </h1>
 ## Hi there 👋
 
