@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://github.com/lumakk/lumakk/assets/170836218/1036c93f-7cc2-416a-853c-eb6e460f9d9e" alt="lumakk">
+<img src="https://github.com/lumakk/lumakk/assets/170836218/b94c2655-a0af-46d9-884a-c8fb21f4d2d8" alt="lumakk">
 </h1>
 ## Hi there 👋
 
