@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 I am a College student taking Bachelor of Science in Computer Science at [Polytechnic University of the Philippines][PUP].
-
+Check my website [here][website].
 
 - 🔭 I’m currently working on a [QR code app][QR] for the ENEDA Hackathon
 - 🌱 I’m currently learning PHP, MySQL and DBM
@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 
 [PUP]: https://en.wikipedia.org/wiki/Polytechnic_University_of_the_Philippines
 [QR]: https://github.com/kirbydavid/Qriosity
+[website]: https://mac-lozano.is-a.dev/
